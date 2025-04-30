@@ -1,5 +1,7 @@
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:
+## DATE:30.4.25
+## Name: Jayasree T S
+## Ref no: 212224040135
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -36,6 +38,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/e6db1ed1-033e-4949-a133-05c4e848acc8)
+
 
 
 ## RESULT:
